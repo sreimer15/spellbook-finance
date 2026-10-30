@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "spellbook-finance",
+  "version": "1.0.0",
+  "description": "SpellBook Finance gives your agent market facts and seller tools for Magic: The Gathering, Pokémon and Riftbound cards: card prices across marketplaces, weekly movers, buylist spreads, sealed booster box EV, and your own seller inventory and eBay, ManaPool and TCGplayer listings. Public research tools need no account. Workspace tools sign in through OAuth.",
+  "author": {
+    "name": "SpellBook Finance",
+    "email": "support@spellbook-finance.com"
+  },
+  "homepage": "https://spellbook-finance.com/agent/mcp.md",
+  "repository": "https://github.com/sreimer15/spellbook-finance",
+  "license": "MIT",
+  "keywords": ["mcp", "magic-the-gathering", "mtg", "pokemon", "tcg", "card-prices", "trading-cards"]
+}

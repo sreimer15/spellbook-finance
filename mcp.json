@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "spellbook-finance": {
+      "type": "streamable-http",
+      "url": "https://api.spellbook-finance.com/mcp"
+    }
+  }
+}
